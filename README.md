@@ -39,3 +39,9 @@ RGB LED · 서보모터 · DC 모터 · I2C LCD
 ## 기술 스택
 
 `ATmega128A` · `C` · `AVR Studio` · `ADC` · `I2C` · `RTC` · `PWM` · `DC Motor` · `Servo Motor`
+
+## 프로젝트 결과
+
+🎬 [유튜브(YouTube) 스마트 어항 영상](https://www.youtube.com/watch?v=u2zzdcHJl2s)
+
+📊 [프로젝트 발표 PPT](https://docs.google.com/presentation/d/148J36PkVOABS_IdUh0nViSP8VyKp4w8m8m-7FM9RXnw/edit?slide=id.g3e0b0b0bd8e_16_2#slide=id.g3e0b0b0bd8e_16_2)
